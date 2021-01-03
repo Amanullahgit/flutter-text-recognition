@@ -1,16 +1,23 @@
-# text_recognition_project
+# Flutter Text Recognition ML
 
-A new Flutter project.
+This is the source code for Flutter Text Recognition ML.<br>
 
-## Getting Started
+## App Features
+- Capture Image Or Select From Gallery.<br>
+- Converting or Extracting Text from image.<br>
+- Copying Text To Clipboard.<br><br>
 
-This project is a starting point for a Flutter application.
+For Step By Step Guide Follow Video Tutorial:
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter ML | Flutter Text Recognition From Image Complete Tutorial](https://bit.ly/38ZX7sm)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Links used in project:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Firebase ML Vision](http://bit.ly/38LkHJo)
+- [Image Picker](https://bit.ly/2HFbadx)
+- [Clipboard](http://bit.ly/2MuFDgo)
+- [Implementations](http://bit.ly/37T4930)
+<br><br>
+
+Feel Free to copy the code and use it.<br><br>
+Don't forget to star the repo and like the video :)
